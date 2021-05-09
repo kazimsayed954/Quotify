@@ -1,2 +1,2 @@
 # Quotify
-<img src="https://github.com/kazimsayed954/Quotify/blob/master/screenshot/screen_1.png" width="100" height="100">
+<img src="https://github.com/kazimsayed954/Quotify/blob/master/screenshot/screen_1.png" width="550" height="900">
